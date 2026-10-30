@@ -14,11 +14,4 @@ I'm a Computer Science undergraduate at Wenzhou-Kean University (2023–2027). I
 - [SmartCourse](https://github.com/YiduoYu/SmartCourse): context-aware LLM course advising with a locally hosted model
 - [EduMind](https://github.com/YiduoYu/edumind-evaluation) and [DailyReflection](https://github.com/YiduoYu/dailyReflection): Spring Boot services that flag students who report negative mood repeatedly, using sentiment analysis
 
-**Experience**
-
-- Backend Developer Intern, Zhejiang Institute of Communications (2025)
-- Operations Engineer Intern, Ningbo Eastsea Linefan Technology / Sinopec (2024)
-
-Python · PyTorch · Java · SQL · Git · Linux · LaTeX
-
 📫 yiduoyu04@outlook.com
