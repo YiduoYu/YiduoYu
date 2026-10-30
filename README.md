@@ -4,9 +4,9 @@ I'm a Computer Science undergraduate at Wenzhou-Kean University (2023–2027). I
 
 **Research**
 
-- [**LGF-CNN for Variable-Coefficient Elliptic PDEs**](https://github.com/YiduoYu/LGF-CNN-Nonlinear-Poisson) · with Prof. Qing Xia
+- [**LGF-CNN for Variable-Coefficient Elliptic PDEs**](https://github.com/YiduoYu/LGF-CNN-Nonlinear-Poisson) · with Prof. Qing Xia<br>
   An unrolled PyTorch solver that combines fixed lattice Green's function filters with learned local mixing.
-- [**Residual-Frequency Test-Time Adaptation for Time-Series Forecasting**](https://github.com/YiduoYu/Residual-Frequency-TTA) · with Prof. Zhiqiang Gao
+- [**Residual-Frequency Test-Time Adaptation for Time-Series Forecasting**](https://github.com/YiduoYu/Residual-Frequency-TTA) · with Prof. Zhiqiang Gao<br>
   A lightweight output adapter (DSA) for frozen forecasters, conditioned on FFT features of recent prediction errors.
 
 **Projects**
