@@ -11,7 +11,7 @@ I'm a Computer Science undergraduate at Wenzhou-Kean University (2023–2027). I
 
 **Projects**
 
-- [SmartCourse](https://github.com/YiduoYu/CPS3320-SmartCourse_AI_Course_Advisor): context-aware LLM course advising with a locally hosted model
+- [SmartCourse](https://github.com/YiduoYu/SmartCourse): context-aware LLM course advising with a locally hosted model
 - [EduMind](https://github.com/YiduoYu/edumind-evaluation) and [DailyReflection](https://github.com/YiduoYu/dailyReflection): Spring Boot services that flag students who report negative mood repeatedly, using sentiment analysis
 
 **Experience**
