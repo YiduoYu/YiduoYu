@@ -1,17 +1,15 @@
-### Hi, I'm Yiduo Yu
+## Hi, I'm Yiduo
 
-I'm a Computer Science undergraduate at Wenzhou-Kean University (2023–2027). I work on machine learning for scientific computing and time series, especially methods that pair a small learned component with classical structure, such as Green's functions in PDE solvers or frequency-domain features in test-time adaptation.
+I'm a computer science undergraduate interested in machine learning and scientific computing. Lately, I've been working on PDE solvers and time-series forecasting, while also exploring computer vision.
 
-**Research**
+I enjoy seeing how an abstract mathematical idea becomes something I can implement and test. These projects have given me plenty of mathematics to learn along the way, and new questions to try out in code.
 
-- [**LGF-CNN for Variable-Coefficient Elliptic PDEs**](https://github.com/YiduoYu/LGF-CNN-Nonlinear-Poisson) · with Prof. Qing Xia<br>
-  An unrolled PyTorch solver that combines fixed lattice Green's function filters with learned local mixing.
-- [**Residual-Frequency Test-Time Adaptation for Time-Series Forecasting**](https://github.com/YiduoYu/Residual-Frequency-TTA) · with Prof. Zhiqiang Gao<br>
-  A lightweight output adapter (DSA) for frozen forecasters, conditioned on FFT features of recent prediction errors.
+### A few things I've worked on
 
-**Projects**
+- **[LGF-CNN](https://github.com/YiduoYu/LGF-CNN-Nonlinear-Poisson)**: Combining lattice Green's functions with learned updates to solve elliptic PDEs.
+- **[Residual-Frequency TTA](https://github.com/YiduoYu/Residual-Frequency-TTA)**: Exploring whether patterns in recent prediction errors can help forecasting models adapt to changing data.
+- **[SmartCourse](https://github.com/YiduoYu/SmartCourse)**: A course-advising tool that gives a local language model access to a student's transcript and degree plan.
 
-- [SmartCourse](https://github.com/YiduoYu/SmartCourse): context-aware LLM course advising with a locally hosted model
-- [EduMind](https://github.com/YiduoYu/edumind-evaluation) and [DailyReflection](https://github.com/YiduoYu/dailyReflection): Spring Boot services that flag students who report negative mood repeatedly, using sentiment analysis
+Outside of CS, I enjoy badminton, photography, and watching football. I've liked looking at maps since I was a kid, and I enjoy going for drives in the mountains.
 
-📫 yiduoyu04@outlook.com
+You can reach me at [yiduoyu04@outlook.com](mailto:yiduoyu04@outlook.com).
